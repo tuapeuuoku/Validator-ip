@@ -1,0 +1,17 @@
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\obj\Debug\net6.0-windows\IPVALIDATOR.csproj.AssemblyReference.cache
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\obj\Debug\net6.0-windows\IPVALIDATOR.Form1.resources
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\obj\Debug\net6.0-windows\IPVALIDATOR.csproj.GenerateResource.cache
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\obj\Debug\net6.0-windows\IPVALIDATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\obj\Debug\net6.0-windows\IPVALIDATOR.AssemblyInfoInputs.cache
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\obj\Debug\net6.0-windows\IPVALIDATOR.AssemblyInfo.cs
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\obj\Debug\net6.0-windows\IPVALIDATOR.csproj.CoreCompileInputs.cache
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\bin\Debug\net6.0-windows\IPVALIDATOR.exe
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\bin\Debug\net6.0-windows\IPVALIDATOR.deps.json
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\bin\Debug\net6.0-windows\IPVALIDATOR.runtimeconfig.json
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\bin\Debug\net6.0-windows\IPVALIDATOR.dll
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\bin\Debug\net6.0-windows\ref\IPVALIDATOR.dll
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\bin\Debug\net6.0-windows\IPVALIDATOR.pdb
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\obj\Debug\net6.0-windows\IPVALIDATOR.dll
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\obj\Debug\net6.0-windows\ref\IPVALIDATOR.dll
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\obj\Debug\net6.0-windows\IPVALIDATOR.pdb
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\obj\Debug\net6.0-windows\IPVALIDATOR.genruntimeconfig.cache

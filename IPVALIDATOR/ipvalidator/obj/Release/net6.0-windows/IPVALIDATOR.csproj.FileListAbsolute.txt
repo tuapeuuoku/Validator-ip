@@ -1,0 +1,7 @@
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\obj\Release\net6.0-windows\IPVALIDATOR.csproj.AssemblyReference.cache
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\obj\Release\net6.0-windows\IPVALIDATOR.Form1.resources
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\obj\Release\net6.0-windows\IPVALIDATOR.csproj.GenerateResource.cache
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\obj\Release\net6.0-windows\IPVALIDATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\obj\Release\net6.0-windows\IPVALIDATOR.AssemblyInfoInputs.cache
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\obj\Release\net6.0-windows\IPVALIDATOR.AssemblyInfo.cs
+C:\Users\miko\source\repos\IPVALIDATOR\IPVALIDATOR\obj\Release\net6.0-windows\IPVALIDATOR.csproj.CoreCompileInputs.cache
